@@ -8,7 +8,7 @@ A very quick map produced from the datasets above (easy to imagine how it may be
 
 ![NYC Map of Community Districts Showing Drop-off Sites as Points](assets/drop-offs.png)
 
-Ways to continue to improve this map and the related datasets:
+**Ways to continue to improve this map and the related datasets:**
 
 * Add in elected officials to the geographic dataset, export as geojson
 * Add column to capture status (open / closed) to Food Scrap Drop-offs dataset (especially given new conditions post-COVID)
